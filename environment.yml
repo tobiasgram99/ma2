@@ -4,6 +4,7 @@ channels:
   - https://repo.anaconda.com/pkgs/main
   - https://repo.anaconda.com/pkgs/r
 dependencies:
+  - pip
   - python=3.11
   - scikit-learn
   - matplotlib
